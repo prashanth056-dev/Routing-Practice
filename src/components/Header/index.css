@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+}
+.options {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: none;
+  width: 30%;
+}
+.links {
+  list-style: none;
+  font-weight: bold;
+  text-decoration: none;
+}
+.icon {
+  width: 30px;
+  height: 30px;
+}
